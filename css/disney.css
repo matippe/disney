@@ -37,7 +37,7 @@ a{
 .top-wrapper{
   background-image: url("../img/mountain.jpg");
   background-size:cover;
-  background-color: #999;
+  width: 1170px; height:670px;
   color:white;
   padding-top:180px; padding-bottom:100px;
 }
