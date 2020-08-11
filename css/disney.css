@@ -34,7 +34,7 @@ a{
   display: block;
 }
 
-.container{
+.top-wrapper{
   background-image: url("../img/mountain.jpg");
   background-size:cover;
   background-color: #999;
