@@ -157,3 +157,9 @@ footer p{
 }
 
 footer{padding-top:30px;}
+
+@media (max-width:670px){
+  width:100%;
+}
+
+
