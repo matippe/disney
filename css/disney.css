@@ -3,6 +3,12 @@ body {
   font-family: "Hiragino Kaku Gothic ProN";
 }
 
+*{
+  box-sizing:border-box;
+}
+
+
+
 a {
   text-decoration: none;
 }
